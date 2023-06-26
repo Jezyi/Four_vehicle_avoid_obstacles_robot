@@ -1,4 +1,4 @@
-# Wall-E
+# Components
 
 ##### The aim of this project was to create a 4 wheel robot able to avoid obstacles.
 
