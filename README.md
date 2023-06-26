@@ -20,6 +20,4 @@ From an Hardware point of view, has been used:
 + Resistance 50Ω         x3
 + LED                    x3
 
-![robot](https://github.com/Jezyi/Four_vehicle_avoid_obstacles_robot/assets/95480178/5025ad9a-6e6e-44ea-817c-d33e0dc00aff)
-
-<img src="https://github.com/Jezyi/Four_vehicle_avoid_obstacles_robot/assets/95480178/5025ad9a-6e6e-44ea-817c-d33e0dc00aff.png" width="200" height="400" />
+<img src="https://github.com/Jezyi/Four_vehicle_avoid_obstacles_robot/assets/95480178/5025ad9a-6e6e-44ea-817c-d33e0dc00aff.png" width="200" height="200" />
