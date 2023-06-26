@@ -1,4 +1,4 @@
-# Four_vehicle_avoid_obstacles_robot
+# Wall-E
 
 ##### The aim of this project was to create a 4 wheel robot able to avoid obstacles.
 
