@@ -1,5 +1,4 @@
 # Four_vehicle_avoid_obstacles_robot
-# Four_vehicle_avoid_obstacles_robot
 
 ##### The aim of this project was to create a 4 wheel robot able to avoid obstacles.
 
