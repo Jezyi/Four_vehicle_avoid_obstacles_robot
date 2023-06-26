@@ -20,3 +20,4 @@ From an Hardware point of view, has been used:
 + LED                    x3
 
 <img src="https://github.com/Jezyi/Four_vehicle_avoid_obstacles_robot/assets/95480178/5025ad9a-6e6e-44ea-817c-d33e0dc00aff.png" width="230" height="300" />
+<img src="https://github.com/Jezyi/Four_vehicle_avoid_obstacles_robot/assets/95480178/234c40ec-2216-43a8-a238-b99d5df63fd3.png" width="230" height="300" />
